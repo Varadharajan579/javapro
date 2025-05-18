@@ -18,7 +18,7 @@ public class Home3{
         int revnum=0;
         int originalnum=num;
         while(num !=0){
-            i
+            
         }
         int digit=num%10;
 
